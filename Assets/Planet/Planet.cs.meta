@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe42bb63a2143074c9500d9e584fcedd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - surfaceMat: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - noiseFilter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
